@@ -1,4 +1,3 @@
-import { TIMEOUT_SEC } from "../../../final/src/js/config.js";
 import * as config from "./config.js";
 
 const timeout = function (s) {
